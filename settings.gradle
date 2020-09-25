@@ -1,0 +1,2 @@
+rootProject.name='13T_Github_egylet'
+include ':app'
